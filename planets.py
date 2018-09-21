@@ -1,3 +1,13 @@
+#
+#Name: Noel Treese
+#Student-ID: ntreese
+#Date: 9/21/18
+#
+#Lab 0
+#Section 14
+#Purpose: Investigate command line prompts and modifying variables
+#
+
 def weight_on_planets():
    # write your code here
    given_weight = float(input('What do you weigh on earth? '))
